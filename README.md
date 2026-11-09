@@ -1,35 +1,25 @@
-# Cody Shah
+<img src="banner.png" alt="Cody Shah. Elastic Web." width="100%">
 
-I build Elastic Web. A service exposes what it can do. An intent hits that slice, not the whole catalog.
+I build Elastic Web.
 
-Vedaxi is the name on the door. Elastic Web is the product.
+The web hands you a page. I want it to hand you what a service can do, then do the thing you meant.
 
-## The direction
+A company's agent should walk in, send a task, and stay in the room. The open protocol is public. The session that keeps them there is the next cut.
 
-The demo site is a view of the protocol layer. A company should not have to install that view.
-
-A company agent discovers Elastic, sends a task, and continues that same session. A different agent does not resume the thread. That is the A2A cut. The public default branch has the adapter. The session peer is not on that branch yet.
-
-The other cut is prefetch. In that session, cache the interface descriptor before the next invoke. Agent card. Tool list. A call that changes state is not prefetched. That pass is not in the public repo yet.
-
-What is public today is the open protocol: intent, capability, recipe.
-
-## Public work
+<img src="work.png" alt="Elastic. The desk. The router. VDX." width="100%">
 
 [Vedaxi Elastic](https://github.com/luxurylifestyleco/vedaxi-elastic) is the open protocol.
 
-[Vedaxi Elastic Web](https://github.com/luxurylifestyleco/vedaxi-elastic-web) is the research-integrity desk. An agent may propose. A human confirms.
+[Vedaxi Elastic Web](https://github.com/luxurylifestyleco/vedaxi-elastic-web) is the desk. An agent may propose. A human confirms.
 
-[Skill Router](https://github.com/luxurylifestyleco/skill-router) picks one skill before the model runs. The catalog stays off the request.
+[Skill Router](https://github.com/luxurylifestyleco/skill-router) picks one skill before the model runs.
 
-[VDX Android](https://github.com/luxurylifestyleco/vdx-android) is the voice surface. Call a person from what you said. No account. No VDX cloud.
+[VDX Android](https://github.com/luxurylifestyleco/vdx-android) is the voice. Call a person from what you said. No account. No cloud.
 
-[CodeNotes](https://github.com/luxurylifestyleco/codenotes) is the meeting workspace. Capture is never faked.
-
-## Elsewhere
+[CodeNotes](https://github.com/luxurylifestyleco/codenotes) is the meeting. Capture is never faked.
 
 Live view: [vedaxi.com/elasticweb](https://vedaxi.com/elasticweb)
 
-[vedaxi.com](https://vedaxi.com)
+Vedaxi is the name on the door. [vedaxi.com](https://vedaxi.com)
 
-This username is the travel writing: [luxurylifestyle.co](https://www.luxurylifestyle.co)
+This username is the travel writing. [luxurylifestyle.co](https://www.luxurylifestyle.co)

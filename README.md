@@ -26,8 +26,8 @@
 
 | | |
 | --- | --- |
-| [Vedaxi Elastic](https://github.com/luxurylifestyleco/vedaxi-elastic) | Open protocol. A service exposes what it can do. |
-| [Vedaxi Elastic Web](https://github.com/luxurylifestyleco/vedaxi-elastic-web) | The desk. An agent may propose. A human confirms. |
+| [Elastic Web](https://vedaxi.com/elasticweb) | Open protocol. A service exposes what it can do. [Live](https://vedaxi.com/elasticweb) · [vedaxi-elastic](https://github.com/luxurylifestyleco/vedaxi-elastic). |
+| [Research-integrity desk](https://github.com/luxurylifestyleco/vedaxi-integrity-desk) | The desk. An agent may propose. A human confirms. |
 | [Skill Router](https://github.com/luxurylifestyleco/skill-router) | One skill, before the model runs. |
 | [VDX Android](https://github.com/luxurylifestyleco/vdx-android) | Voice. Call a person from what you said. No account. |
 | [CodeNotes](https://github.com/luxurylifestyleco/codenotes) | The meeting. Capture is never faked. |
